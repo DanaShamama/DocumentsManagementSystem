@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentsManagementSystem", "DocumentsManagementSystem\DocumentsManagementSystem.csproj", "{78B944FA-10FB-453C-B953-F25FC5716684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentProject", "DocumentProject\DocumentProject.csproj", "{C724E9EB-37DC-499C-86F6-FA60A2530792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78B944FA-10FB-453C-B953-F25FC5716684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B944FA-10FB-453C-B953-F25FC5716684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B944FA-10FB-453C-B953-F25FC5716684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B944FA-10FB-453C-B953-F25FC5716684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C724E9EB-37DC-499C-86F6-FA60A2530792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C724E9EB-37DC-499C-86F6-FA60A2530792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C724E9EB-37DC-499C-86F6-FA60A2530792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C724E9EB-37DC-499C-86F6-FA60A2530792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
